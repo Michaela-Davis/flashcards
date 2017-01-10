@@ -4,4 +4,20 @@ p {
 
 h1 {
   text-align: center;
+  font-family: serif;
+}
+.well h1 {
+  padding-top: 15px;
+}
+
+.well {
+  height: 200px;
+  background-color: #c9e5b3;
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+}
+
+.well img {
+  height: 160px;
+  padding-left: 10px;
 }
