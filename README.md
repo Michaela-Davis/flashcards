@@ -1,20 +1,16 @@
-# _{Application Name}_
+# _Flashcards_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This amazing flashcard application will help you learn JavaScript and jQuery jargon, 1.10.17_
 
 #### By _**Keith Evans, Michaela Davis**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_An interactive flashcard website_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open [GithubPages](https://michaela-davis.github.io/flashcards/) in your browser_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
